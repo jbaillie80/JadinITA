@@ -55,4 +55,4 @@ print(e)
 #8)
 #Make a variable of any type, with one of the common SYNTAX errors
 
-h=false
+#h=false
