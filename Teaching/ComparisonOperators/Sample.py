@@ -31,3 +31,18 @@ g = (4 > 5)
 print(g)
 
 print(v == g)
+
+"Jadin" == "Jadin"
+#True
+
+"Jadin" == "ITA"
+#False
+
+"Jadin" == "jadin"
+#False
+
+3 == 3
+
+4 < 3
+
+
